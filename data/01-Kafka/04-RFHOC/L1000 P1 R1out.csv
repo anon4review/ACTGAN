@@ -1,0 +1,2 @@
+num.network.threads,num.io.threads,queued.max.requests,num.replica.fetchers,socket.receive.buffer.bytes,socket.send.buffer.bytes,socket.request.max.bytes,buffer.memory,batch.size,linger.ms,compression.type,T-Ô¤²â,T-Êµ¼Ê
+15,2,13,14,12,19,3,36,48,0,none,29.18,24.84

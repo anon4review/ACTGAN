@@ -1,0 +1,2 @@
+protocol,XX:MaxNewSize,Xms,Xmx,maxHttpHeaderSize,maxThreads,minSpareThreads,maxSpareThreads,minProcessors,acceptCount,enableLookups,connectionTimeout,disableUploadTimeout,compressionMinSize,Throughput
+org.apache.coyote.http11.Http11Protocol,256,128,512,4110,1000,50,76,50,51,FALSE,9961,FALSE,1020,9694.644099

@@ -1,0 +1,17 @@
+repl-backlog-size,hash-max-ziplist-value,hash-max-ziplist-entries,list-max-ziplist-size,active-defrag-ignore-bytes,active-defrag-threshold-lower,hll-sparse-max-bytes,hz,repl-disable-tcp-nodelay,SET:requests per second
+6mb,105,511,-3,205mb,9,12661,263,no,113145.6
+7mb,67,741,-2,154mb,12,3867,261,no,104840.67
+8mb,56,649,-1,122mb,12,4647,181,no,103808.63
+5mb,70,762,-4,256mb,9,4674,352,yes,92954.08
+7mb,38,780,-4,279mb,8,4772,262,no,91324.2
+7mb,55,710,-4,213mb,13,3622,221,yes,91240.88
+8mb,79,724,-3,110mb,11,7557,23,no,89477.45
+6mb,99,661,-3,215mb,11,8250,363,no,89437.44
+4mb,55,287,-2,220mb,13,11383,101,yes,89221.98
+5mb,36,552,-4,132mb,14,6103,133,yes,89086.86
+9mb,60,508,-1,99mb,11,4486,180,no,88960.05
+8mb,141,573,-3,245mb,15,7519,362,no,87780.9
+8mb,64,665,-3,139mb,11,6836,133,no,87062.51
+8mb,78,418,-3,234mb,12,4224,301,no,85594.45
+8mb,70,740,-1,128mb,8,9135,296,yes,85492.01
+4mb,76,733,-1,187mb,12,7416,255,yes,84904.06

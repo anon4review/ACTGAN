@@ -1,0 +1,17 @@
+protocol,XX:MaxNewSize,Xms,Xmx,maxHttpHeaderSize,maxThreads,minSpareThreads,maxSpareThreads,minProcessors,acceptCount,enableLookups,connectionTimeout,disableUploadTimeout,compressionMinSize,Throughput
+org.apache.coyote.http11.Http11AprProtocol,70,68,137,4407,345,45,259,64,99,FALSE,16890,FALSE,1030,12694.44
+org.apache.coyote.http11.Http11AprProtocol,68,72,146,4288,966,51,80,51,101,FALSE,29911,FALSE,2051,11074.0661
+org.apache.coyote.http11.Http11AprProtocol,63,70,145,4767,502,50,77,99,95,FALSE,12384,FALSE,999,11003.41479
+org.apache.coyote.http11.Http11AprProtocol,65,69,159,4677,471,51,61,99,92,FALSE,10947,FALSE,1044,10819.42345
+org.apache.coyote.http11.Http11AprProtocol,63,68,131,4111,994,74,140,51,145,FALSE,30440,FALSE,2055,9744.333729
+org.apache.coyote.http11.Http11AprProtocol,65,88,165,5496,352,52,108,99,87,FALSE,22889,FALSE,1024,9712.478791
+org.apache.coyote.http11.Http11AprProtocol,76,85,154,5388,758,51,87,78,82,FALSE,20694,FALSE,1425,8707.921174
+org.apache.coyote.http11.Http11AprProtocol,67,74,141,4728,465,52,91,97,95,FALSE,15256,FALSE,1040,8595.898215
+org.apache.coyote.http11.Http11AprProtocol,94,103,196,6194,1031,53,106,49,87,FALSE,29988,FALSE,2025,8582.075972
+org.apache.coyote.http11.Http11AprProtocol,69,69,143,4212,975,52,98,49,107,FALSE,28957,FALSE,2064,8549.44889
+org.apache.coyote.http11.Http11AprProtocol,68,69,140,4162,981,53,98,50,107,FALSE,29681,FALSE,2054,7539.39333
+org.apache.coyote.http11.Http11AprProtocol,79,69,152,4713,562,48,377,41,119,FALSE,29876,FALSE,1593,7517.854905
+org.apache.coyote.http11.Http11AprProtocol,71,74,152,4284,832,58,190,62,117,FALSE,34078,FALSE,1912,7517.666516
+org.apache.coyote.http11.Http11AprProtocol,64,63,129,4101,485,51,86,99,101,FALSE,11315,FALSE,1029,7396.632067
+org.apache.coyote.http11.Http11AprProtocol,64,88,177,5759,185,50,180,100,79,FALSE,30223,FALSE,1046,7352.941176
+org.apache.coyote.http11.Http11AprProtocol,61,66,129,4097,985,73,132,53,142,FALSE,30211,FALSE,2038,7338.372349

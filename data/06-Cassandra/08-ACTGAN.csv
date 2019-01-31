@@ -1,0 +1,17 @@
+column_index_size_in_kb,commitlog_sync_period_in_ms,compaction_throughput_mb_per_sec,in_memory_compaction_limit_in_mb,memtable_flush_queue_size,reduce_cache_capacity_to,reduce_cache_sizes_at,commitlog_segment_size_in_mb,compaction_preheat_key_cache,multithreaded_compaction,commitlog_sync,Throughput
+79,15116,15,65,4,0.6,0.41,12,FALSE,TRUE,periodic,14548.51904
+26,9141,26,45,5,0.6,0.34,13,FALSE,TRUE,periodic,13526.31579
+91,16933,28,56,6,0.4,0.78,26,FALSE,TRUE,periodic,12515.24711
+76,13037,17,65,5,0.6,0.49,16,FALSE,TRUE,periodic,11405.82726
+116,14913,31,73,7,0.7,1.04,24,FALSE,TRUE,periodic,11277.49229
+85,15508,14,66,4,0.7,0.41,9,FALSE,TRUE,periodic,10193.67992
+98,15249,21,81,6,0.8,0.59,15,FALSE,TRUE,periodic,10080.64516
+83,15375,21,63,5,0.5,0.44,13,FALSE,TRUE,periodic,9861.932939
+114,14667,19,99,8,0.9,0.9,8,FALSE,FALSE,periodic,9832.841691
+72,13906,22,52,5,0.5,0.36,19,FALSE,TRUE,periodic,9746.588694
+68,14468,18,61,4,0.6,0.38,13,FALSE,TRUE,periodic,9652.509653
+61,3662,19,36,5,0.2,1.23,14,TRUE,TRUE,periodic,9532.888465
+92,16723,21,61,5,0.5,0.44,14,FALSE,TRUE,periodic,9505.703422
+97,17155,28,55,5,0.3,0.63,20,FALSE,TRUE,periodic,9487.666034
+73,9068,20,71,5,0.5,0.79,19,FALSE,TRUE,periodic,9460.737938
+67,15562,34,52,8,0.3,1.1,45,FALSE,TRUE,periodic,9451.795841

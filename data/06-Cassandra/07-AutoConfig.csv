@@ -1,0 +1,2 @@
+column_index_size_in_kb,commitlog_sync_period_in_ms,compaction_throughput_mb_per_sec,in_memory_compaction_limit_in_mb,memtable_flush_queue_size,reduce_cache_capacity_to,reduce_cache_sizes_at,commitlog_segment_size_in_mb,compaction_preheat_key_cache,multithreaded_compaction,commitlog_sync,Throughput
+100,12167,22,119,4,0,0.23,32,FALSE,FALSE,periodic,13148.52321

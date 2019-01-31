@@ -1,0 +1,17 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,178346
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,195917
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,198771
+3,16750,0.12647853,0.587522226,95,TRUE,TRUE,TRUE,FALSE,lz4,69,20,org.apache.spark.serializer.KryoSerializer,208132
+4,6239,0.304544788,0.680535932,71,TRUE,TRUE,FALSE,TRUE,lzf,81,50,org.apache.spark.serializer.KryoSerializer,211039
+4,6239,0.304544788,0.680535932,71,TRUE,TRUE,FALSE,TRUE,lzf,81,50,org.apache.spark.serializer.KryoSerializer,219943
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,224194
+4,6239,0.304544788,0.680535932,71,TRUE,TRUE,FALSE,TRUE,lzf,81,50,org.apache.spark.serializer.KryoSerializer,224463
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,231996
+4,6635,0.62232637,0.591683291,87,TRUE,FALSE,TRUE,FALSE,lzf,64,11,org.apache.spark.serializer.JavaSerializer,232512
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,237634
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,238771
+4,14619,0.686013983,0.431672028,153,TRUE,TRUE,TRUE,TRUE,snappy,43,38,org.apache.spark.serializer.JavaSerializer,244338
+4,6635,0.62232637,0.591683291,87,TRUE,FALSE,TRUE,FALSE,lzf,64,11,org.apache.spark.serializer.JavaSerializer,245478
+1,8140,0.778157432,0.321944059,180,TRUE,FALSE,TRUE,FALSE,lzf,84,10,org.apache.spark.serializer.JavaSerializer,249135
+1,16640,0.785208744,0.162508145,121,TRUE,FALSE,FALSE,FALSE,snappy,10,57,org.apache.spark.serializer.KryoSerializer,363802

@@ -1,0 +1,2 @@
+sort_buffer_size,  join_buffer_size,  innodb_autoextend_increment,  innodb_buffer_pool_size,  innodb_additional_mem_pool_size,  innodb_log_buffer_size,  table_open_cache,  thread_cache_size,  query_cache_limit,  max_allowed_packet,  max_connect_errors,  max_connecitons,  tmp_table_size,  max_heap_table_size,TpmC
+1577,1469,391,5153,4,11,460,54,2,9,902,1549,61,59,3106.5

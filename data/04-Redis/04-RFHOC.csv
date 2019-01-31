@@ -1,0 +1,2 @@
+repl-backlog-size,hash-max-ziplist-value,hash-max-ziplist-entries,list-max-ziplist-size,active-defrag-ignore-bytes,active-defrag-threshold-lower,hll-sparse-max-bytes,hz,repl-disable-tcp-nodelay,预测值（每秒响应）,实际值（每秒响应）
+7mb,70,814,-2,125mb,20,11983,172,no,75240.32194,84947.33

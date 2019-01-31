@@ -1,0 +1,5 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time
+4,19242,0.688317112,0.663994192,85,TRUE,FALSE,FALSE,FALSE,lz4,84,22,org.apache.spark.serializer.JavaSerializer,266915
+1,4882,0.180683624,0.274946262,203,FALSE,TRUE,TRUE,TRUE,snappy,10,50,org.apache.spark.serializer.KryoSerializer,979389
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,1124410
+2,6187,0.158679888,0.149819352,114,FALSE,TRUE,TRUE,TRUE,lzf,21,54,org.apache.spark.serializer.KryoSerializer,1138965

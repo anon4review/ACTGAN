@@ -1,0 +1,2 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time,predict time
+4,7152,0.577467856,0.298088765,44,TRUE,TRUE,TRUE,TRUE,lzf,51,27,org.apache.spark.serializer.JavaSerializer,151290,157492.8732

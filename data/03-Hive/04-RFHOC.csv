@@ -1,0 +1,2 @@
+hive.exec.reducers.bytes.per.reducer,hive.exec.parallel.thread.number,hive.join.cache.size,hive.merge.smallfiles.avgsize,hive.mapjoin.bucket.cache.size,hive.map.aggr.hash.percentmemory,hive.stats.fetch.partition.stats,hive.optimize.index.autoupdate,hive.merge.mapfiles,hive.exec.parallel,time_yu,time_shiji
+470,11,26816.94655801478,33371135.6943639,160,0.16738,true,false,true,false,100462,111078

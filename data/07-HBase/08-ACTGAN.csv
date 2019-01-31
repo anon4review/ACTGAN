@@ -1,0 +1,4 @@
+hfile.block.cache.size,hbase.regionserver.global.memstore.upperLimit,hbase.regionserver.global.memstore.lowerLimit,hbase.regionserver.handler.count,hbase.hregion.memstore.block.multiplier,hbase.hstore.compactionThreshold,hbase.hstore.blockingStoreFiles,hbase.hregion.memstore.flush.size,hfile.block.index.cacheonwrite,hbase.hregion.memstore.mslab.enabled,run time(ms) 
+0.54,0.1,0.09,62,4,7,93,28079137,TRUE,FALSE,11098
+0.39,0.2,0.16,77,4,7,71,255875899,TRUE,FALSE,12283
+0.37,0.2,0.14,66,3,7,50,115921366,FALSE,TRUE,13551

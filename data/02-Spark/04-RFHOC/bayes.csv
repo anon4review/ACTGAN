@@ -1,0 +1,2 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time,predict time
+4,8750,0.660296796,0.654462589,24,FALSE,FALSE,TRUE,TRUE,snappy,26,24,org.apache.spark.serializer.KryoSerializer,117983,108306.9183

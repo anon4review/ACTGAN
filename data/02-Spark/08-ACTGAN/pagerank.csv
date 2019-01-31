@@ -1,0 +1,17 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time
+4,13767,0.371497,0.831687,14,FALSE,FALSE,TRUE,FALSE,lz4,23,22,org.apache.spark.serializer.KryoSerializer,242334
+4,15677,0.611313,0.714252,13,FALSE,FALSE,TRUE,FALSE,lz4,43,31,org.apache.spark.serializer.KryoSerializer,245080
+2,5654,0.730007,0.311863,24,FALSE,FALSE,TRUE,FALSE,lzf,71,56,org.apache.spark.serializer.KryoSerializer,245874
+4,11257,0.587548,0.788755,14,FALSE,TRUE,TRUE,FALSE,lz4,29,21,org.apache.spark.serializer.KryoSerializer,246293
+4,14212,0.395533,0.825861,14,FALSE,FALSE,TRUE,FALSE,lz4,24,24,org.apache.spark.serializer.KryoSerializer,251027
+4,12248,0.432492,0.791046,14,FALSE,FALSE,TRUE,FALSE,lz4,29,24,org.apache.spark.serializer.KryoSerializer,251105
+2,8260,0.187212,0.379038,17,FALSE,FALSE,TRUE,FALSE,lz4,20,25,org.apache.spark.serializer.KryoSerializer,252485
+2,4715,0.589302,0.351073,22,FALSE,FALSE,TRUE,FALSE,lzf,78,53,org.apache.spark.serializer.KryoSerializer,252632
+2,6387,0.836468,0.279139,26,FALSE,FALSE,TRUE,FALSE,lzf,66,58,org.apache.spark.serializer.KryoSerializer,254801
+2,6417,0.289067,0.371398,18,FALSE,FALSE,TRUE,FALSE,lz4,48,34,org.apache.spark.serializer.KryoSerializer,257098
+4,14376,0.516509,0.755645,14,FALSE,FALSE,TRUE,FALSE,lz4,35,28,org.apache.spark.serializer.KryoSerializer,257288
+2,5201,0.658236,0.331406,23,FALSE,FALSE,TRUE,FALSE,lzf,75,54,org.apache.spark.serializer.KryoSerializer,259153
+2,4749,0.585357,0.352996,22,FALSE,FALSE,TRUE,FALSE,lzf,78,53,org.apache.spark.serializer.KryoSerializer,260869
+2,5177,0.65098,0.333871,23,FALSE,FALSE,TRUE,FALSE,lzf,75,54,org.apache.spark.serializer.KryoSerializer,260876
+4,13313,0.413508,0.826284,14,FALSE,FALSE,TRUE,FALSE,lz4,25,23,org.apache.spark.serializer.KryoSerializer,261386
+4,14127,0.40028,0.822142,14,FALSE,FALSE,TRUE,FALSE,lz4,23,23,org.apache.spark.serializer.KryoSerializer,261686

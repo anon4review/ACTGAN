@@ -1,0 +1,16 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time
+3,15355,0.876397053,0.517049138,28,TRUE,FALSE,FALSE,TRUE,lz4,66,49,org.apache.spark.serializer.KryoSerializer,189047
+2,5726,0.311262673,0.241829553,74,FALSE,TRUE,FALSE,TRUE,lzf,89,32,org.apache.spark.serializer.JavaSerializer,199370
+3,16386,0.779675312,0.431930747,43,TRUE,FALSE,FALSE,TRUE,lz4,69,43,org.apache.spark.serializer.KryoSerializer,200749
+2,10224,0.444103202,0.654713981,115,TRUE,TRUE,TRUE,FALSE,snappy,25,60,org.apache.spark.serializer.KryoSerializer,202613
+3,15163,0.787821322,0.532060129,29,TRUE,FALSE,FALSE,TRUE,lz4,70,45,org.apache.spark.serializer.KryoSerializer,206799
+4,4140,0.6,0.5,8,TRUE,TRUE,TRUE,FALSE,lz4,48,32,org.apache.spark.serializer.JavaSerializer,210369
+2,5018,0.304404052,0.190553215,54,FALSE,TRUE,FALSE,TRUE,snappy,85,36,org.apache.spark.serializer.JavaSerializer,211363
+4,18252,0.633125452,0.269105169,157,FALSE,FALSE,FALSE,FALSE,lz4,60,28,org.apache.spark.serializer.JavaSerializer,217904
+4,19116,0.587356212,0.267733756,171,FALSE,FALSE,TRUE,FALSE,lz4,48,22,org.apache.spark.serializer.JavaSerializer,220591
+2,5314,0.395705824,0.110348832,72,TRUE,TRUE,FALSE,TRUE,snappy,89,37,org.apache.spark.serializer.JavaSerializer,231340
+3,9902,0.53452662,0.684392412,128,TRUE,TRUE,TRUE,FALSE,snappy,29,54,org.apache.spark.serializer.KryoSerializer,233876
+2,10268,0.544100002,0.639613916,103,TRUE,TRUE,TRUE,FALSE,snappy,41,61,org.apache.spark.serializer.KryoSerializer,252279
+1,12333,0.211962333,0.765452191,201,FALSE,FALSE,TRUE,FALSE,lzf,20,13,org.apache.spark.serializer.JavaSerializer,273949
+1,11830,0.178497635,0.743517321,199,FALSE,TRUE,TRUE,FALSE,lzf,23,9,org.apache.spark.serializer.JavaSerializer,276209
+1,11095,0.173711788,0.830477807,194,FALSE,FALSE,TRUE,FALSE,lzf,9,15,org.apache.spark.serializer.KryoSerializer,290430

@@ -1,0 +1,17 @@
+spark.executor.cores,spark.executor.memory,spark.memory.fraction,spark.memory.storageFraction,spark.default.parallelism,spark.shuffle.compress,spark.shuffle.spill.compress,spark.broadcast.compress,spark.rdd.compress,spark.io.compression.codec,spark.reducer.maxSizeInFlight,spark.shuffle.file.buffer,spark.serializer,time
+4,6841,0.695796619,0.488881179,20,FALSE,TRUE,TRUE,TRUE,snappy,43,28,org.apache.spark.serializer.JavaSerializer,85402
+4,7089,0.715824362,0.448104552,19,FALSE,TRUE,TRUE,TRUE,snappy,41,30,org.apache.spark.serializer.JavaSerializer,94583
+4,8598,0.794538143,0.290594945,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,105051
+4,8690,0.79215593,0.296741777,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,105213
+4,8740,0.770220628,0.338005608,13,TRUE,FALSE,FALSE,FALSE,lz4,35,38,org.apache.spark.serializer.JavaSerializer,105282
+4,8624,0.793814901,0.292487963,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,105388
+4,5780,0.669343022,0.548235287,23,FALSE,TRUE,TRUE,TRUE,snappy,45,24,org.apache.spark.serializer.JavaSerializer,105736
+4,8560,0.797790311,0.2939345,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,105823
+4,8606,0.794517666,0.288814667,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106088
+4,8584,0.796491241,0.293291363,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106256
+4,8612,0.795138771,0.292484446,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106279
+4,8620,0.79380334,0.29204997,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106505
+4,8577,0.796742325,0.286832827,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106549
+4,8561,0.797731795,0.292686948,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106633
+4,8613,0.795337207,0.29157283,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,106796
+4,8571,0.798592948,0.291338638,12,TRUE,FALSE,FALSE,FALSE,lz4,34,39,org.apache.spark.serializer.JavaSerializer,107121

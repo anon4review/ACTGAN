@@ -1,0 +1,2 @@
+repl-backlog-size,hash-max-ziplist-value,hash-max-ziplist-entries,list-max-ziplist-size,active-defrag-ignore-bytes,active-defrag-threshold-lower,hll-sparse-max-bytes ,hz,repl-disable-tcp-nodelay,requestPerSecond
+21,29,398,-1,512,21,15531,498,yes,100121
