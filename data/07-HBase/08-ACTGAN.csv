@@ -1,0 +1,17 @@
+hfile.block.cache.size,hbase.regionserver.global.memstore.upperLimit,hbase.regionserver.global.memstore.lowerLimit,hbase.regionserver.handler.count,hbase.hregion.memstore.block.multiplier,hbase.hstore.compactionThreshold,hbase.hstore.blockingStoreFiles,hbase.hregion.memstore.flush.size,hfile.block.index.cacheonwrite,hbase.hregion.memstore.mslab.enabled,run time(ms) 
+0.54,0.1,0.09,62,4,7,93,28079137,TRUE,FALSE,11098
+0.39,0.2,0.16,77,4,7,71,255875899,TRUE,FALSE,11283
+0.37,0.2,0.14,66,3,7,50,115921366,FALSE,TRUE,11551
+0.29,0.4,0.25,98,5,7,59,417333248,FALSE,TRUE,11798
+0.28,0.5,0.36,31,4,1,78,73608575,TRUE,FALSE,12046
+0.21,0.5,0.44,167,3,8,73,92627061,TRUE,TRUE,12110
+0.35,0.4,0.26,46,6,5,79,133408187,TRUE,FALSE,12252
+0.16,0.5,0.41,112,1,4,49,113104998,TRUE,TRUE,12285
+0.27,0.4,0.36,127,4,8,74,161837772,TRUE,TRUE,12314
+0.34,0.4,0.26,32,9,4,63,796310042,TRUE,FALSE,12720
+0.34,0.3,0.2,81,5,7,80,199149785,FALSE,TRUE,12765
+0.14,0.5,0.39,101,1,5,50,152381354,TRUE,TRUE,13059
+0.17,0.5,0.43,148,2,7,66,119944043,TRUE,TRUE,13182
+0.32,0.4,0.23,104,5,7,85,117001528,FALSE,TRUE,13215
+0.26,0.4,0.32,117,4,8,76,180348958,TRUE,TRUE,13257
+0.32,0.2,0.18,47,10,9,49,1250852702,TRUE,FALSE,13289
